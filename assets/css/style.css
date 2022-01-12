@@ -213,7 +213,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/me.JPG") ;
+  background: url("../img/bg1.jpg");
   background-size:cover;
   background-position: center center;
   background-repeat: no-repeat;
